@@ -1,1 +1,29 @@
-//
+body{
+    background-size:cover ;
+    background-image: url('/img/il_padrino.jpeg');
+    ul{
+        color: rgb(244, 244, 248);
+        li{
+            list-style-type: none;
+            .red{
+                background-color: red;
+            }
+            .green{
+                background-color: green;
+            }
+            .blu{
+                background-color: blue;
+            }
+            .black{
+                background-color: black;
+            }
+            .violet{
+                background-color: rgb(87, 4, 87);
+            }
+        }
+    }
+}
+
+    
+
+
